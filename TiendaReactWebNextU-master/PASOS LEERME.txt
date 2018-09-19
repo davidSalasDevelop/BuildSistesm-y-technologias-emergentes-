@@ -1,0 +1,8 @@
+-- npm install
+- node server/iniciarData.js
+- verificar los datos creados en la BD de MongoDB.
+- npm run dist
+- node servernode.js
+
+USUARIO : david96develop@gmail.com
+CONTRA ; 1234567
